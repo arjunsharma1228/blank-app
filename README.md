@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 AIQC ML app template
 
 A simple Streamlit app template for you to modify!
 
